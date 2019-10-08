@@ -1,6 +1,5 @@
 <template>
   <div>
-    
     <div class="ui inverted vertical center aligned segment">
        <particles />
       <nav class="ui container">
